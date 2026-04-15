@@ -48,6 +48,10 @@ openclaw gateway restart
 
 终端 A：编译并启动串口桥节点
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/COONEO/Openclaw_To_ROS2/refs/heads/main/Screenshot%20from%202026-03-05%2017-34-03.png" width="800">
+</p>
+
 ```bash
 cd <your_ws>/serial_servo
 source /opt/ros/humble/setup.bash
