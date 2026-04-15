@@ -1,5 +1,7 @@
 # OpenClaw x ROS2 机械夹爪复现
 
+![](https://raw.githubusercontent.com/COONEO/Openclaw_To_ROS2/refs/heads/main/1.jpg)
+
 本文用于从 0 到 1 复现：通过 OpenClaw 在 ROS2 中控制机械夹爪开合和角度。
 
 ## 1. 环境搭建与下载
