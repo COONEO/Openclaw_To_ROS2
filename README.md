@@ -90,6 +90,10 @@ openclaw dashboard
 
 `用 ros2_publish 向 /servo/command 发布 serial_servo_bridge/msg/ServoCommand，消息为 {mode: 0, servo_id: 1, value: -30.0}`
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/COONEO/Openclaw_To_ROS2/refs/heads/main/a640a7e4-8a6d-466b-8148-e199ef6059cb.png" width="800" alt="夹爪控制演示">
+</p>
+
 ## 5. 关键文件说明
 
 - [openclaw_skills/gripper-control/SKILL.md](./openclaw_skills/gripper-control/SKILL.md)：夹爪控制 skill
